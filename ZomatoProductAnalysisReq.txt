@@ -4,3 +4,8 @@ Prepare/ Clean Zomato Dataset.
 Analyse cleaned data regarding to solve business problems and identify hidden patterns in the cleaned data by SQL language.
 Visualize the discovered patterns by Tableau (BI Tool).
 Prepare Report to demonstrate the discovered insights to stackholders of business.
+
+
+Assumptions.
+Research Questions.
+Hypothesis.
